@@ -1,0 +1,2 @@
+1.model中的 self.datacollector
+2.visualization中的两个
